@@ -25,14 +25,13 @@ us know if you encounter compatibility issues. Also, try removing them and using
 - /Empresas/*
 
 ## VALID production ready app IDs 
-- cl.entel.appswlsdesa
-- N4YLN8K7AT.cl.entel.appentel
+- cl.entel.empresas.app
 
 ## VALID debug-test app IDs 
-- cl.entel.appswlsdesa.debug
+- cl.entel.empresas.app.debug
 
-## Configurations deployed on app.entel.cl
-Entel uses old IIS for public site. This forces a 'hardcoded' solution to serve the required files that are validated by Android/iOS when users install the app: they are served by F5 on https://app.entel.cl/.well-known/
+## Configurations deployed on cl.entel.empresas.app
+Entel uses old IIS for public site. This forces a 'hardcoded' solution to serve the required files that are validated by Android/iOS when users install the app: they are served by F5 on https://cl.entel.empresas.app/.well-known/
 
 #### assetlinks.json (Android)
 Android handles valids paths from settings in AndroidManifest.xml and, because of that, assetlinks.json is ready and do not need any changes. If more paths are needed, PLEASE update apple-app-site-association file on server.
