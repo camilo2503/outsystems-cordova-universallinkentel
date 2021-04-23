@@ -17,13 +17,12 @@ us know if you encounter compatibility issues. Also, try removing them and using
 ##ORIGINAL plugin
 [ionic-plugin-deeplinks](https://github.com/ionic-team/ionic-plugin-deeplinks)
 
-## VALID Universal link DOMAIN defined for Entel App Personas
-- app.entel.cl
+## VALID Universal link DOMAIN defined for Entel App Empresas
+- cl.entel.empresas.app
 
-## VALID Universal Link paths defined for Entel App Personas
+## VALID Universal Link paths defined for Entel App Empresas
 - /open
-- /Entel/*
-- /ul/*
+- /Empresas/*
 
 ## VALID production ready app IDs 
 - cl.entel.appswlsdesa
