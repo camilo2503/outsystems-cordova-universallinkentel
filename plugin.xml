@@ -33,7 +33,7 @@
 				<category android:name="android.intent.category.DEFAULT" />
 				<category android:name="android.intent.category.BROWSABLE" />
 				<data android:scheme="https" android:host="cl.entel.empresas.app" android:pathPrefix="/open" />
-				<data android:scheme="https" android:host="cl.entel.empresas.app" android:pathPrefix="/Empresa" />
+				<data android:scheme="https" android:host="cl.entel.empresas.app" android:pathPrefix="/Empresas" />
 			</intent-filter>
 		</config-file>
 
