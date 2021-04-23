@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                 "appID": "N4YLN8K7AT.cl.entel.appentel",
+                 "appID": "cl.entel.empresas.app",
                  "paths": [ "/open/*", "/Empresas/*" ]
             }
         ]
